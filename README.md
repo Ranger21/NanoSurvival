@@ -1,2 +1,0 @@
-# NanoSurvival
-My Project
